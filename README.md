@@ -1,4 +1,4 @@
-🌿 EcoPulseX Dashboard
+🌿 EcoPulseX : Smart carhbon Footprint Predictor and Recommender
 
 EcoPulseX is an interactive Shiny app designed to help individuals and organizations understand and reduce their environmental impact. By analyzing key factors like energy consumption, transport modes, work hours, steps, sleep patterns, and social media usage, the app provides actionable insights to promote sustainable living. The model is deployed on shinyapps.io, making it accessible to anyone with an internet connection.
 
